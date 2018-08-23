@@ -4,6 +4,8 @@
 
 A Simple app that displays the collection of books and their details using react at client side and a GraphQL server and MongoDB Database.
 
+![DEMO](demo.gif)
+
 ### How To Run
 * Start the server
   * `$ cd server`
