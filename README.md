@@ -16,7 +16,7 @@ A Simple app that displays the collection of books and their details using react
   * `yarn start`
 
 ### Purpose
-learn the working of React and GraphQL. This project was made with just the purpose of learning.
+learn the working of React and GraphQL. This project was made with just the purpose of learning.O Oh.
 
 ### Refrence:-
 most of the work here is based on [this repository.](https://github.com/iamshaunjp/graphql-playlist)
